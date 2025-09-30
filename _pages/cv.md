@@ -12,6 +12,7 @@ redirect_from:
 # Education
 
 **Brawijaya University Indonesia**, B.S. in Pure Mathematics (2022)
+
 GPA : 3.53/4.00
 
 ***
@@ -19,6 +20,7 @@ GPA : 3.53/4.00
 # Professional Experience
 
 **Game Developer** (2023-present)
+
 _Gameplay Programmer, Envision Studios Ltd (Remote)_
 
 - Implemented core gameplay systems such as cooking, woodcutting, fishing, NPC shops with custom currency, and other mechanics.
