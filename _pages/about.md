@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I am a game developer that specialize in Unreal Engine with 2 years of experience.
 
-I am a core member of an ongoing game development project, where I have made significant contributions. While I haven’t worked on many different projects, I dedicate most of my time and effort to this one. In this portfolio, I'll share the features I have implemented for the project.
+I am a core member of an ongoing game development [project](https://playregnumdei.com), where I have made significant contributions. While I haven’t worked on many different projects, I dedicate most of my time and effort to this one. In this portfolio, I'll share the features I have implemented for the project.
 
 *Click the images to watch the demo on YouTube.*
 
