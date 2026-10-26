@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a game developer that specialize in Unreal Engine with 2 years of experience.
+Hello! I am a game developer that specialize in Unreal Engine with 2 years of experience. 
 
 I am a core member of an ongoing game development [project](https://playregnumdei.com), where I have made significant contributions. While I haven’t worked on many different projects, I dedicate most of my time and effort to this one. In this portfolio, I'll share the features I have implemented for the project.
 
@@ -65,3 +65,9 @@ I did a little bit programming with the character Animation Blueprint, ensuring 
 I developed the material and underlying logic for dynamic snow deformation on the landscape. This system allows players and other selected object.
 
 [![Snow](images/5.png)](https://youtu.be/3xUzqcscUHU)
+
+## The-24th
+
+I made a short, 5 minute game as a birthday greeting for my girlfriend. I made this little game as a way to celebrate her birthday and turn some of our memories into something she could experience and keep. The game could've been longer, but I ran out of time. The whole project was made in less than 20 hours over the span of one week, and most of the assets were sourced from third parties.
+
+[![The-24th](images/the24th1.png)](https://rizkyaldi.itch.io/the-24th)
