@@ -68,6 +68,6 @@ I developed the material and underlying logic for dynamic snow deformation on th
 
 ## The-24th
 
-I made a short, 5 minute game as a birthday greeting for my girlfriend. I made this little game as a way to celebrate her birthday and turn some of our memories into something she could experience and keep. The game could've been longer, but I ran out of time. The whole project was made in less than 20 hours over the span of one week, and most of the assets were sourced from third parties.
+I made a short, 5 minute game as a birthday greeting for my girlfriend. I made this little game as a way to celebrate her birthday and turn some of our memories into something she could experience and keep. The game could've been longer, but I ran out of time. The whole project was made in less than 20 hours over the span of one week, and most of the assets were sourced from third parties. Story Framework template is used to save time.
 
 [![The-24th](images/the24th1.png)](https://rizkyaldi.itch.io/the-24th)
